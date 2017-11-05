@@ -1,6 +1,9 @@
-# bohnacker.github.io
-My GitHub Pages Repo
+## A diagram of musical harmonies
+### Added October 2017
 
-The plan is, to fill this with some of my past years code snippets and examples that might be interesting for other people. Let's see how far I'll get.
+Harmony Diagram is an intactive application that displays the relations of all 40 possible triads in 4D space.
 
 [![Harmony Diagram](img/harmony.png)](Harmony_Diagram/)
+
+---
+
