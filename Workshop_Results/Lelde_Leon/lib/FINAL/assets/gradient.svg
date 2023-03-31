@@ -1,0 +1,17 @@
+<svg
+  viewBox="0 0 10 10"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="myGradient">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#cafffb" />
+      <stop offset="95%" stop-color="#0A3463" />
+    </radialGradient>
+  </defs>
+
+  <!-- using my radial gradient -->
+  
+  <rect x="0" y="0" width="10" height="10" fill="#0A3463" />  
+  <circle cx="5" cy="5" r="4" fill="url('#myGradient')" />
+</svg>
