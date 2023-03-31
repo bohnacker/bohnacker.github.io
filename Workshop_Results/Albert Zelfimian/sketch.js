@@ -8,7 +8,7 @@ let shapeMode = 'ellipse';
 
 let img;
 function preload() {
-  // img = loadImage('./IMG_9097.PNG');
+  img = loadImage('./IMG_2344.png');
 }
 
 function setup() { 
